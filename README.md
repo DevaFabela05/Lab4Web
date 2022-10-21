@@ -3,36 +3,37 @@
 ### Langkah - langkah Pratikum 4
 
 #### Membuat Box Element
-Digunakan untuk membuat  Beginilah tampilannya:
+Digunakan untuk membuatBOx Element, Tag yang biasanya digunakan dalam merancang layout web adalah tag div dengan konsep box element. Konsep box element terdiri dari Margin, Border, Padding, dan Content. Beginilah tampilannya:
 ![gambar1](screenshot/ss1.png)
 
 #### Mengatur Clearfix Element
-Digunakan untuk  Inilah tampilannya:
+Digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya. Inilah tampilannya:
 ![gambar2](screenshot/ss2.png)
+![gambar3](screenshot/ss3.png)
 
 #### Membuat Layout Sederhana
 Digunakan untuk membuat  Inilah tampilannya:
-![gambar3](screenshot/ss3.png)
+![gambar4](screenshot/ss4.png)
 
 #### Membuat Navigasi
  begini tampilannya:
-![gambar4](screenshot/ss4.png)
+![gambar4](screenshot/ss5.png)
 
 #### Membuat Hero Panel.
  Berikut tampilannya:
-![gambar5](screenshot/ss5.png)
+![gambar5](screenshot/ss6.png)
 
 #### Mengatur Layout Main dan Sidebar
  Berikut tampilannya:
-![gambar6](screenshot/ss6.png)
+![gambar6](screenshot/ss7.pngpng)
 
 #### Membuat Sidebar Widget
  Berikut tampilannya:
-![gambar7](screenshot/ss7.png)
+![gambar7](screenshot/ss8.pngng)
 
 #### Mengatur Footer
  Berikut tampilannya :
-![gambar8](screenshot/ss8.png)
+![gambar8](screenshot/ss9.png)
 
 #### Hasil Pratikum 
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
