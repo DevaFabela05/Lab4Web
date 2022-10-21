@@ -32,7 +32,7 @@ Untuk membuat form digunakan tag form dengan atribut action dan method. Atribut 
 
 #### Mengatur Footer
 Agar tampilan form lebih menarik, bisa ditambahkan CSS. Berikut tampilannya :
-![gambar8](screenshot/ss8.png)
+![gambar8](screenshot/ss8.pngpng)
 
 #### Hasil Pratikum 
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
