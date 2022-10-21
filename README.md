@@ -36,5 +36,5 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS. Berikut tampilannya :
 
 #### Hasil Pratikum 
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
-![gambarhsl](screenshot/hsl1.png)
-![gambarhsl](screenshot/hsl2.png)
+![gambarhsl1](screenshot/hsl1.png)
+![gambarhsl2](screenshot/hsl2.png)
