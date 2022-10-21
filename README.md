@@ -32,7 +32,7 @@ Digunakan untuk membuat  Inilah tampilannya:
 
 #### Mengatur Footer
  Berikut tampilannya :
-![gambar8](screenshot/ss8.pngpng)
+![gambar8](screenshot/ss8.png)
 
 #### Hasil Pratikum 
 Berikut ini adalah tampilan dari praktek yang saya lakukan:
