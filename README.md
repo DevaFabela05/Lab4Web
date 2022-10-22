@@ -12,27 +12,27 @@ Digunakan untuk mengatur element setelah float element. Property clear digunakan
 ![gambar3](screenshot/ss3.png)
 
 #### Membuat Layout Sederhana
-Digunakan untuk membuat  Inilah tampilannya:
+ Inilah tampilannya:
 ![gambar4](screenshot/ss4.png)
 
 #### Membuat Navigasi
- begini tampilannya:
+Yaitu dengan menambahkan display dan background pada bagian nav. style.css, berikut tampilannya :
 ![gambar4](screenshot/ss5.png)
 
-#### Membuat Hero Panel.
- Berikut tampilannya:
+#### Membuat Hero Panel
+Dengan menambahkan section id hero pada home.html dan hero panel untuk menata layout pada style css. Berikut tampilannya:
 ![gambar5](screenshot/ss6.png)
 
 #### Mengatur Layout Main dan Sidebar
- Berikut tampilannya:
+Menambahkan main content dan sidebar area pada style.css. Berikut tampilannya:
 ![gambar6](screenshot/ss7.png)
 
 #### Membuat Sidebar Widget
- Berikut tampilannya:
+Menambahkan aside id="sidebar" div class="widget-box" pada home.html. Berikut tampilannya:
 ![gambar7](screenshot/ss8.png)
 
 #### Mengatur Footer
- Berikut tampilannya :
+Mengatur padding, clear both and background pada style.css. Berikut tampilannya :
 ![gambar8](screenshot/ss9.png)
 
 #### Hasil Pratikum 
