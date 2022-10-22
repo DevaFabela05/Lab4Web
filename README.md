@@ -3,7 +3,7 @@
 ### Langkah - langkah Pratikum 4
 
 #### Membuat Box Element
-Digunakan untuk membuatBOx Element, Tag yang biasanya digunakan dalam merancang layout web adalah tag div dengan konsep box element. Konsep box element terdiri dari Margin, Border, Padding, dan Content. Beginilah tampilannya:
+Digunakan untuk membuat BOx Element, Tag yang digunakan dalam merancang layout web adalah tag div dengan konsep box element. Konsep box element terdiri dari Margin, Border, Padding, dan Content. Beginilah tampilannya:
 ![gambar1](screenshot/ss1.png)
 
 #### Mengatur Clearfix Element
@@ -25,11 +25,11 @@ Digunakan untuk membuat  Inilah tampilannya:
 
 #### Mengatur Layout Main dan Sidebar
  Berikut tampilannya:
-![gambar6](screenshot/ss7.pngpng)
+![gambar6](screenshot/ss7.png)
 
 #### Membuat Sidebar Widget
  Berikut tampilannya:
-![gambar7](screenshot/ss8.pngng)
+![gambar7](screenshot/ss8.png)
 
 #### Mengatur Footer
  Berikut tampilannya :
